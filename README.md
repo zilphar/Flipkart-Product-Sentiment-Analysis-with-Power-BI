@@ -1,4 +1,4 @@
-# Flipkart-Product-Sentiment-Analysis-with-Power-BI
+# Flipkart-Products-Sentiment-Analysis-with-Power-BI
 
 **<ins> Introduction </ins>** 
 
